@@ -42,7 +42,7 @@ section: home
            </a></div>
        <div class="flex items-start items-end-md h-a h-50-md h-a-lg w-100 w-50-lg mt6 mt0-md">
            <div class="Card__description mr3 rich-text">
-               <p>As the Covid-19 pandemic has raced around the planet and overwhelmed health systems, nurses and midwives are on the frontlines of care. We asked nurses from New York City and around the world to share their experiences. We are currently conducting oral history interviews to gain an in-depth picture of nurses’ insights and personal stories about providing care during a pandemic. These interviews will be posted in spring 2021.</p><a class="dib mt5 Card__cta" href="{{site.baseurl}}/covid/">Read more</a>
+               <p>As the Covid 19 pandemic has raced around the planet and overwhelmed health systems, nurses are on the frontlines of care. We asked nurses from New York City to share their experiences. The Covid 19 interviews were completed for the Columbia Center for Oral History Research/INCITE research project: <a href="https://incite.columbia.edu/covid19-oral-history-project">The NYC Covid-19 Oral History and Memory Archive</a>, and generously shared with the Frontline Nurses: Leaders in Pandemic Response project.</p>
            </div>
        </div>
        <div class="flex h-a h-50-md h-a-lg w-100 mt3 mt0-lg w-50-lg relative"><a class="flex-auto" href="covid/">
